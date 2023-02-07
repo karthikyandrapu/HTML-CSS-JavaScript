@@ -1,0 +1,76 @@
+<html>
+<head>
+  <title>Time Table</title>
+</head>
+<body>
+  <h1>
+    <center>TIME TABLE</center>
+  </h1><br>
+  <table Border="1" align="center" cellspacing="2" cellpadding="2">
+    <tr align="center">
+      <td colspan="10"><strong>DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING</strong></td>
+    </tr>
+    <tr align="center">
+      <td colspan="10"><strong>SRKR ENGINEERING COLLEGE(AUTONOMOUS) (AFFLIATED TO JNTU, KAKINDA), CHINA-AMIRAM, BHIMAVARAM-534204, INDIA</strong></td>
+    </tr>
+    <tr align="center">
+      <td colspan="10" bgcolor=#87CEEB><br></td>
+    </tr>
+    <tr align="center">
+      <td colspan="2"><strong>2/4 CSE-E</strong></td>
+      <td colspan="6"><strong>2022-2023 1ST SEMESTER TIME TABLE</strong></td>
+      <td colspan="2"><strong>ROOM B-204</strong></td>
+    </tr>
+    <tr align="center">
+      <th>DAY</th>
+      <th>09:00-09:50</th>
+      <th>09:50-10:40</th>
+      <th>10:40-11:30</th>
+      <th>11:30-12:20</th>
+      <th rowspan="7">LUNCH</th>
+      <th>01:45-02:35</th>
+      <th>02:35-03:25</th>
+      <th>03:25-04:15</th>
+      <th>04:15-5:05</th>
+    </tr>
+    <tr align="center">
+      <th>MON</th>
+      <td colspan="4">WAD LAB</td>
+      <td colspan="2">PP</td>
+      <td colspan="2">-</td>
+    </tr>
+    <tr align="center">
+      <th>TUE</th>
+      <td colspan="2">OS</td>
+      <td colspan="2">PP</td>
+      <td colspan="4">PP LAB</td>
+    </tr>
+    <tr align="center">
+      <th>WED</th>
+      <td colspan="2">SE</td>
+      <td colspan="2">PP</td>
+      <td colspan="2">OOP</td>
+      <td colspan="2">EP</td>
+    </tr>
+    <tr align="center">
+      <th>THU</th>
+      <td colspan="2">OOP</td>
+      <td colspan="2">OS</td>
+      <td colspan="4">OOP LAB</td>
+    </tr>
+    <tr align="center">
+      <th>FRI</th>
+      <td colspan="4">OS LAB</td>
+      <td colspan="2">NMVC</td>
+      <td>PD</td>
+      <td>-</td>
+    </tr>
+    <tr align="center">
+      <th>SAT</th>
+      <td colspan="2">NMVC</td>
+      <td colspan="2">ES</td>
+      <td colspan="4">-</td>
+    </tr>
+  </table>
+</body>
+<table>
