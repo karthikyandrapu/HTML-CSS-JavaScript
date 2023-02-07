@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h3> Programs on Event Handling to Change color of background when the user clicks on the button </h3>
+<button id = "click">Click to Change Backgroung Color</button>
+<script>
+document.getElementById("click").onclick = function() {
+fun()
+};
+function fun() {
+document.getElementById("click").innerHTML = "Clicked on th Button";
+document.getElementsByTagName("body")[0].style.color = "black";
+document.getElementsByTagName("body")[0].style.backgroundColor = "lightgreen";
+}
+</script>
+
+</body>
+</html>
